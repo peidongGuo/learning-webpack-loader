@@ -1,0 +1,16 @@
+{
+  "name": "webpack-loader-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "keywords": [],
+  "author": "guopd",
+  "license": "ISC"
+}
